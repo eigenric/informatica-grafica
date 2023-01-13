@@ -1,2 +1,3 @@
-# informatica-grafica
-Prácticas de la asignatura Informática Gráfica.
+# Informática Gráfica
+
+Prácticas realizadas para la asignatura Informática Gráfica.
